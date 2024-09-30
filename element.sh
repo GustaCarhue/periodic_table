@@ -16,3 +16,4 @@ else
   fi
 fi
 # Comentario sobre la función de este script
+echo 'Este script muestra información de elementos químicos'
